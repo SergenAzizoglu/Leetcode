@@ -1,4 +1,4 @@
-package Main;
+package Main.RunningSumof1dArray1480;
 
 import java.util.Arrays;
 
